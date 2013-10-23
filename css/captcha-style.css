@@ -1,0 +1,31 @@
+/* A Very Simple Captcha Plugin CSS */
+
+.captcha-label{width:90px; height:50px; font-size:25px; padding:5px; margin: 10px;}
+
+@font-face {
+	font-family: a1;  
+	src: local('a1'), 
+		url("fonts/a1.ttf") format('truetype');  
+	font-weight: normal;  
+}
+
+@font-face {
+	font-family: a2;  
+	src: local('a2'), 
+		url("fonts/a2.ttf") format('truetype');  
+	font-weight: normal;  
+}
+
+@font-face {
+	font-family: a3;  
+	src: local('a3'), 
+		url("fonts/a3.ttf") format('truetype');  
+	font-weight: normal;  
+}
+
+@font-face {
+	font-family: a4;  
+	src: local('a4'), 
+		url("fonts/a4.ttf") format('truetype');  
+	font-weight: normal;  
+}
