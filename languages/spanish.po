@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: A Very Simple Captcha\n"
+"POT-Creation-Date: 2013-12-03 18:05+0530\n"
+"PO-Revision-Date: 2013-12-08 16:23+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: include/bc_very-simple-captcha-add-sub.php:23
+msgid "<b>*</b> Please Enter the <b>Output</b><br>"
+msgstr "<b>*</b> Por favor entre la <b>Salida</b><br>"
+
+#: include/bc_very-simple-captcha-add-sub.php:49
+#: include/bc_very-simple-captcha-alphabets.php:51
+#: include/bc_very-simple-captcha-big-small.php:55
+#: include/bc_very-simple-captcha-sort.php:55
+msgid "OOPS! You have missed to enter Captcha!"
+msgstr "¡Ups! ¡Usted olvidó entrar el Captcha!"
+
+#: include/bc_very-simple-captcha-add-sub.php:58
+#: include/bc_very-simple-captcha-alphabets.php:59
+#: include/bc_very-simple-captcha-big-small.php:62
+#: include/bc_very-simple-captcha-checkbox.php:43
+#: include/bc_very-simple-captcha-combo.php:45
+#: include/bc_very-simple-captcha-sort.php:62
+msgid "Error => Incorrect CAPTCHA, Please click back and reenter"
+msgstr ""
+"Error => CAPTCHA incorrecto, Por favor haga clic hacia atrás y reéntrelo"
+
+#: include/bc_very-simple-captcha-alphabets.php:20
+msgid ""
+"<!-- buffercode.com Alphabets Captcha String --><b>*</b> Please enter the "
+"Characters - <b>[Case Sensitive]</b><br>"
+msgstr ""
+"<!-- buffercode.com Strings de Alfabéticos de Captcha --><b>*</b> Por favor "
+"entre los caracteres - <b>[Se diferencian mayúsculas de minúsculas]</b><br>"
+
+#: include/bc_very-simple-captcha-big-small.php:23
+msgid "<b>*</b> Please enter the <b>Biggest Number</b><br>"
+msgstr "<b>*</b> Por favor entre el <b>Número Mayor</b><br>"
+
+#: include/bc_very-simple-captcha-big-small.php:28
+msgid "<b>*</b> Please enter the <b>Smallest Number</b><br>"
+msgstr "<b>*</b> Por favor entre el <b>Número Menor</b><br>"
+
+#: include/bc_very-simple-captcha-checkbox.php:16
+msgid "Am Not Spammer"
+msgstr "Am no es Spammer"
+
+#: include/bc_very-simple-captcha-checkbox.php:36
+msgid "You have not selected it, Please click back and reenter"
+msgstr ""
+"Usted no lo ha seleccionado, Por favor haga clic hacia atrás y reéntrelo"
+
+#: include/bc_very-simple-captcha-menu.php:43
+msgid "Options Saved..."
+msgstr "Opciones Salvadas..."
+
+#: include/bc_very-simple-captcha-menu.php:53
+msgid "<b>Select the captcha method</b>"
+msgstr "<b>Seleccione el método de captcha</b>"
+
+#: include/bc_very-simple-captcha-menu.php:56
+msgid "Increasing or Decreasing Order"
+msgstr "Orden de Crecimiento y Decrecimiento"
+
+#: include/bc_very-simple-captcha-menu.php:58
+msgid "Combo Box Option"
+msgstr "Opción de Menú Desplegable"
+
+#: include/bc_very-simple-captcha-menu.php:60
+msgid "Biggest or Smallest Number"
+msgstr "Número Mayor o Menor"
+
+#: include/bc_very-simple-captcha-menu.php:62
+msgid "Alphabets"
+msgstr "Alfabetos"
+
+#: include/bc_very-simple-captcha-menu.php:64
+msgid "Addition or Subraction"
+msgstr "Adición o Substracción"
+
+#: include/bc_very-simple-captcha-menu.php:66
+msgid "Check Box"
+msgstr "Casilla de Verificación"
+
+#: include/bc_very-simple-captcha-menu.php:81
+msgid "<h4> Why can't you try PRO Version of Random Captcha - "
+msgstr "<h4> Por qué no puede probar la Versión PRO del Captcha Aleatorio -"
+
+#: include/bc_very-simple-captcha-sort.php:23
+msgid "<b>*</b> Please arrange the below number in <b>increasing order</b><br>"
+msgstr ""
+"<b>*</b>Por favor organice el número de abajo en <b>orden de crecimiento</"
+"b><br>"
+
+#: include/bc_very-simple-captcha-sort.php:28
+msgid "<b>*</b> Please arrange the below number in <b>decreasing order</b><br>"
+msgstr ""
+"<b>*</b>Por favor organice el número de abajo en <b>orden de decrecimiento</"
+"b><br>"
