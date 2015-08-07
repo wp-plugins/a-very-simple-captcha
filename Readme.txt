@@ -2,8 +2,8 @@
 Contributors: vinoth06
 Tags: comment captcha, captcha, secure captcha, random captcha, text captcha, antispam, comment security
 Requires at least: 3.0
-Tested up to: 3.9.1
-Stable tag: 2.4.2
+Tested up to: 4.2.4
+Stable tag: 3.0
 License: GPLv2 or later
 
 This Plugin provides very simple and powerful captcha for your blog with wide variety of captcha methods and models.
@@ -11,16 +11,29 @@ This Plugin provides very simple and powerful captcha for your blog with wide va
 == Description ==
 This Plugin provides very simple and powerful captcha for your blog with wide variety of logical methods and models. By displaying different logical captcha with random manner may provide high level of security.
 
-Users can select wide variety of methods to display the captcha
+1. User can select wide variety of different logical captcha methods like
+ * Biggest Number
+ * Smallest Number
+ * Increasing Order
+ * Decreasing Order
+ * Subtraction of Two Numbers
+ * Addition of Two Numbers
+ * Alphabets [Case Sensitive]
+ * Pick the Position of the Character 
+ * Combo Box 
+ * Multiplication 
+ * Characters to Numbers
+  Or you can make random by using "Random" option to make any of the one above logics with each time page loads.
 
-1. Sorting in increasing or decreasing order
-2. Entering biggest or smallest number
-3. Selecting Am or Am Not Spammer using combo box
-4. Entering the alphabets
-5. Addition or Subtraction
-6. Selecting Am Not Spammer using check box
+  2. User can change the captcha background and font color which is suitable for their theme
 
-For More Information ==> http://buffercode.com/simple-captcha-for-wordpress/
+  3. Random font styles and different image backgrounds for captcha.
+
+For More Information ==> http://buffercode.com/project/a-very-simple-captcha-for-wordpress/
+
+v3.0
+
+* Added Wide variety of new captcha models
 
 v2.4.2
 
@@ -74,16 +87,19 @@ v 1.0
 
 * No captcha in admin dashboard comment reply
 
-For More Information ==> http://buffercode.com/simple-captcha-for-wordpress/
+For More Information ==> http://buffercode.com/project/a-very-simple-captcha-for-wordpress/
 
 == Installation ==
 
 1. Upload the "a-very-simple-captcha" directory to the plugins directory.
 2. Go to the plugins setting page and activate "A Very Simple Captcha". 
 
-For More Information ==> http://buffercode.com/simple-captcha-for-wordpress/
+For More Information ==> http://buffercode.com/project/a-very-simple-captcha-for-wordpress/
 
 == Changelog ==
+= 3.0 =
+
+* Added Wide variety of new captcha models
 
 = 2.4.2 =
 
@@ -129,7 +145,7 @@ For More Information ==> http://buffercode.com/simple-captcha-for-wordpress/
 * User can able to select the captcha models like displaying in increasing, decreasing or random order
 * No captcha in admin dashboard comment reply
 
-For More Information ==> http://buffercode.com/simple-captcha-for-wordpress/
+For More Information ==> http://buffercode.com/project/a-very-simple-captcha-for-wordpress/
 
 == Screenshots ==
 1. Sort Numbers in Decreasing Order
@@ -141,4 +157,4 @@ For More Information ==> http://buffercode.com/simple-captcha-for-wordpress/
 7. A very simple Captcha admin panel
 8. Checkbox captcha
 
-For More Information ==> http://buffercode.com/simple-captcha-for-wordpress/
+For More Information ==> http://buffercode.com/project/a-very-simple-captcha-for-wordpress/
