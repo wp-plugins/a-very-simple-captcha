@@ -1,0 +1,44 @@
+/* Random Captcha Plugin CSS */
+
+.captcha-label{font-size:21px; margin:5px;}
+
+@font-face {
+	font-family: a1;  
+	src: local('a1'), 
+		url("fonts/a1.ttf") format('truetype');  
+	font-weight: normal;  
+
+}
+
+@font-face {
+	font-family: a2;  
+	src: local('a2'), 
+		url("fonts/a2.ttf") format('truetype');  
+	font-weight: normal;  
+}
+
+@font-face {
+	font-family: a3;  
+	src: local('a3'), 
+		url("fonts/a3.ttf") format('truetype');  
+	font-weight: normal;  
+}
+
+@font-face {
+	font-family: a4;  
+	src: local('a4'), 
+		url("fonts/a4.ttf") format('truetype');  
+	font-weight: normal;  
+}
+
+@font-face {
+	font-family: a5;  
+	src: local('a5'), 
+		url("fonts/a5.ttf") format('truetype');  
+	font-weight: normal;  
+}
+.buffercode_random_captcha label{
+    display: inline !important;
+    padding: 5px !important;
+    text-transform: none !important;
+}
